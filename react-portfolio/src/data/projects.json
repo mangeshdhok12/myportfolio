@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Task Manager App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made by myself to learn the latest languages by building an app.",
+    "skills": ["React", "JavaScript", "Bootstrap"],
+    "demo": ":- https://github.com/mangeshdhok12/mytaskmanagerapp.git",
+    "source": ":- https://github.com/mangeshdhok12/mytaskmanagerapp.git"
+  }
+]
