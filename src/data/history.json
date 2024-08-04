@@ -4,8 +4,8 @@
     "organisation": "Masycoda Solutions Private Limited, Nagpur",
     "startDate": "January, 2023",
     "endDate": "Present",
-    "experiences": ["Project 1: Hyperautomation September, 2022-Present :- Work on the product of Masycoda Solutions Pvt. Ltd. which they provide to their employees to give services to other clients."],
-    "experiences2": ["Project 2: Workforce management system January, 2023-August, 2023 :- It is developed for the management level of an organization to track and analyze daily activities and the reports of their salesforce or sales executives."],
+    "experiences": ["Project 1: Tourist guide platform, Description:  Tourist guide platform is a travel-based application designed to help users quickly and easily discover interesting places in their nearest area. The app features restaurants, attractions and interesting shops. Responsibility: -I have implemented Google APIs to fetch the current latitude and longitude to display places around the user.-Utilized state management tools like Redux to manage application state effectively with middleware Redux-Saga ensuring smooth user experience.-I have used code-push technology for managing versioning and reflect the changes and deploy the latest build on app/play store. Technologies: React, Google Maps API, Redux, Fetch, Git, Google Places API, React-router-dom"],
+    "experiences2": ["Project 2: Recruitment platform :- Description: Convert Main goal of the project is a creation of the platform for companies and applicants. Companies are looking to hire people on the temporary, full rime or one-time basis, per hour or per job and applicants are looking for the job. Technologies: React | React-Router | Redux | Stripe for payments | Amazons S3 for storage."],
     "imageSrc": "history/masycoda.png"
   }
   

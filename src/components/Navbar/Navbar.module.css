@@ -54,6 +54,7 @@
     cursor: pointer;
   }
 
+
   .menuItems {
     display: none;
     flex-direction: column;
@@ -73,5 +74,10 @@
   .menuOpen {
     display: flex;
     z-index: 1;
+  }
+}
+@media (min-width: 830px) {
+  .menuBtn {
+    display: none;
   }
 }
