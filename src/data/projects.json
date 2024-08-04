@@ -4,14 +4,14 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made by myself to learn the latest languages by building an app. Used redux to manage the state at application level with the help of redux. The user can add the task edit the task and delete the task. Also can mark the task to complete which makes the app more useful.",
     "skills": ["React", "JavaScript", "Bootstrap"],
-    "demo": ":- https://github.com/mangeshdhok12/mytaskmanagerapp.git",
+   
     "source": ":- https://github.com/mangeshdhok12/mytaskmanagerapp.git"
   },  {
     "title": "Blog App",
     "imageSrc": "projects/project.png",
     "description": "The MERN stack, consisting of MongoDB, Express.js, React, and Node.js, forms the foundation of this blog application. It allows users to register and log in securely using JSON Web Tokens (JWT). Once authenticated, users can create and manage their blogs.Users can upload images, videos, and other files.",
     "skills": ["MongoDB", "Express.js", "Node.js"],
-    "demo": "https://github.com/mangeshdhok12/mytaskmanagerapp.git",
-    "source": "https://github.com/mangeshdhok12/mytaskmanagerapp.git"
+
+    "source": "https://github.com/mangeshdhok12/my-blog-app.git"
   }
 ]
