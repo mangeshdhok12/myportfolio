@@ -17,7 +17,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>React FullStack Developer</h3>
               <p>
               Front end developer with industry experience in developing and implementing web applications using a range of technologies and languages such as JavaScript, React JS, React Hooks, React Router, Redux, Typescript, HTML5, CSS3, AJAX, Bootstrap. 
               </p>

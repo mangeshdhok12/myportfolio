@@ -4,9 +4,27 @@
     "organisation": "Masycoda Solutions Private Limited, Nagpur",
     "startDate": "January, 2023",
     "endDate": "Present",
-    "experiences": ["Project 1: Tourist guide platform, Description:  Tourist guide platform is a travel-based application designed to help users quickly and easily discover interesting places in their nearest area. The app features restaurants, attractions and interesting shops. Responsibility: -I have implemented Google APIs to fetch the current latitude and longitude to display places around the user.-Utilized state management tools like Redux to manage application state effectively with middleware Redux-Saga ensuring smooth user experience.-I have used code-push technology for managing versioning and reflect the changes and deploy the latest build on app/play store. Technologies: React, Google Maps API, Redux, Fetch, Git, Google Places API, React-router-dom"],
-    "experiences2": ["Project 2: Recruitment platform :- Description: Convert Main goal of the project is a creation of the platform for companies and applicants. Companies are looking to hire people on the temporary, full rime or one-time basis, per hour or per job and applicants are looking for the job. Technologies: React | React-Router | Redux | Stripe for payments | Amazons S3 for storage."],
+    "experiences": [
+      {
+        "project": "Tourist Guide Platform",
+        "description": "A travel-based application designed to help users quickly and easily discover interesting places in their nearest area. The app features restaurants and attractions.",
+        "responsibilities": [
+          "Set up the backend using Node.js and Express, creating RESTful APIs to handle data transactions between the client and server.",
+          "Utilized MongoDB for efficient data storage, implementing schemas for user profiles, reviews, and location data.",
+          "Users can add reviews and photos of places, along with ratings.",
+          "Utilized state management tools like Redux to manage application state effectively.",
+          "Employed code-push technology for managing versioning and deploying the latest builds."
+        ],
+        "technologies": ["React","nodejs","express","mongodb", "Google Maps API", "Redux", "Git","React Router Dom"]
+      }
+    ],
+    "experiences2": [
+      {
+        "project": "Recruitment Platform",
+        "description": "The main goal of the project is to create a platform for companies and applicants. Companies are looking to hire people on a temporary, full-time, or one-time basis, per hour or per job, while applicants are looking for jobs.",
+        "technologies": ["React", "React Router", "Redux", "Stripe for payments", "Amazon S3 for storage"]
+      }
+    ],
     "imageSrc": "history/masycoda.png"
   }
-  
 ]
